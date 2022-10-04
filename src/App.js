@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { Wave } from 'react-animated-text';
 
@@ -8,7 +7,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-        <Wave text="shivani tu sach me bhot acchi LADKI hai..." />
+        <Wave text="shivani tu sach me acchi LADKIII  hai..." />
         </p>
         <p>
         {/* <Wave text="Dekha.. Maine Project Deploy kr diya" />
